@@ -9,7 +9,7 @@ Login Sederhana
 ![alt text](https://github.com/CynranF/Postest1_Farhann/blob/main/operasi%20post%20test%201.png?raw=true)
 Operasi Program
 
-![alt text](https://github.com/CynranF/Postest1_Farhann/blob/main/hasil%20running%20kalkulator.png?raw=true)
+![alt text](?raw=true)
 Hasil Program
 
 ## Penjelasan Program
